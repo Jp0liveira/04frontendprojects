@@ -38,8 +38,10 @@
 </div>
 <hr>
 <div align=center>
+
 <a href="https://jp0liveira.github.io/04frontendprojects/" target= "_blank" style="color: #B8E28A">
-<h2> Click here! </h2>
+<h3> Click here! </h3>
+</a>
 </div>
 <hr>
 
