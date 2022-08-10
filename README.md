@@ -42,9 +42,6 @@
 
 ## Click here!
 <hr>
-
-</a>
-
 </div>
-<a href="https://jp0liveira.github.io/04frontendprojects/" target="_blank"> Veja o Projeto </a>
+
 
