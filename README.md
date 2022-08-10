@@ -36,8 +36,8 @@
 <div align= center> 
 <a href="https://github.com/Jp0liveira" target = "_blank"><img src="https://user-images.githubusercontent.com/106454449/183782910-3f0e0a26-3feb-4a34-b747-0097c0249e2e.png" alt="contato, joão paulo oliveira"></a>
 </div>
-<div align=center>
 <hr>
+<div align=center>
 <a href="https://jp0liveira.github.io/04frontendprojects/" target= "_blank" style="color: #B8E28A">
 <h2> Click here! </h2>
 </div>
