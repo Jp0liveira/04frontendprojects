@@ -28,9 +28,7 @@
     <td align=center>97%</td>
   </tr>
 </table>
-
 <br>
-<!--  -->
 <div align=center>
 <img src="https://user-images.githubusercontent.com/106454449/178341906-6628c420-8f59-4b15-93a8-6a7803c6a32d.png" alt="severala"  height="150" width="300" >
 </div>
@@ -48,3 +46,5 @@
 </a>
 
 </div>
+<a href="https://jp0liveira.github.io/04frontendprojects/" target="_blank"> Veja o Projeto </a>
+
