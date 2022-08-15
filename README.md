@@ -39,7 +39,6 @@
 <hr>
 <div align=center>
 <h2><a href="https://jp0liveira.github.io/android-history/" target= "_blank" style="color: #B8E28A"> Click here! </a></h2>
-
 </div>
 <hr>
 
